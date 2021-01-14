@@ -1,23 +1,21 @@
-# Car Rendal management system App UI Flutter | VelocityX |Backend Firebase
+Car Rental management system App UI Flutter | Velocity X |Backend Firebase
+Flutter based Car Rental management system App | Flutter | Velocity X | Backend Firebase
 
-Flutter based Car Rendal management system App | Flutter | VelocityX | Backend Firebase
+Custom Splash Screen with flare animation
 
-Custom Spleash Screen with flare animation  
+Google login
 
-Google login  
+Texts are animated with Shimmer
 
-Text's are animated with Shimmer  
+Animated Bottom Navigation Bar
 
-Animated Bottom Navigation Bar  
+Custom Animations
 
-Custom Animations  
+Custom Grid View
 
-Custom GridView  
+Dark Theme mode
 
-Dark Theme mode  
-
-Save The Application state (If you close the application it save tha application state For Example darktheme enable or not and User logined or not )  
-
+Save The Application state (If you close the application it save the application state For Example dark theme enable or not and User login or not)
 
 ## Demo
 Demo available on YouTube.
