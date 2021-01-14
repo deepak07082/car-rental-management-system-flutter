@@ -6,6 +6,8 @@ Custom Spleash Screen with flare animation
 
 Google login  
 
+Text's are animated with Shimmer  
+
 Animated Bottom Navigation Bar  
 
 Custom Animations  
