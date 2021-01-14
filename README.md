@@ -1,16 +1,14 @@
-# car_rendal_app
+#Car Rendal management system App UI Flutter | VelocityX |Backend Firebase
 
-A new Flutter project.
+Flutter based Car Rendal management system App | Flutter | VelocityX | Backend Firebase
 
-## Getting Started
+## Demo
+Demo available on YouTube.
 
-This project is a starting point for a Flutter application.
+Link: 
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![car rendal app ui](https://user-images.githubusercontent.com/54774962/104598170-43f5c800-569c-11eb-9322-b1e0bbd9aa47.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
