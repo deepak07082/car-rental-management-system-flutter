@@ -2,13 +2,19 @@
 
 Flutter based Car Rendal management system App | Flutter | VelocityX | Backend Firebase
 
-Custom Spleash Screen with flare animation
-Google login
-Animated Bottom Navigation Bar
-Custom Animations
-Custom GridView
-Dark Theme mode
-Save The Application state(If you close the application it save tha application state(Ex: darktheme enable or not and User logined or not))
+Custom Spleash Screen with flare animation  
+
+Google login  
+
+Animated Bottom Navigation Bar  
+
+Custom Animations  
+
+Custom GridView  
+
+Dark Theme mode  
+
+Save The Application state (If you close the application it save tha application state For Example darktheme enable or not and User logined or not )  
 
 
 ## Demo
