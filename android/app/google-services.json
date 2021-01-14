@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "306461401182",
+    "project_id": "car-rendal-app",
+    "storage_bucket": "car-rendal-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306461401182:android:80bbbd809cf5fa9b6754cf",
+        "android_client_info": {
+          "package_name": "com.example.car_rendal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306461401182-fbagq0ovrecll9t1bkj5bu1gjalr5ods.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.car_rendal_app",
+            "certificate_hash": "aeeddf3669bba70d871ffa1d33adbdd27ca0742b"
+          }
+        },
+        {
+          "client_id": "306461401182-ufm5p78n3uhja8ghjc87frue9frq1a3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfaASlrIBxTUFjvAfAfnsRcJ4MlubXJkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306461401182-ufm5p78n3uhja8ghjc87frue9frq1a3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
